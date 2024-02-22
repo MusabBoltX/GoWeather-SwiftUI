@@ -1,3 +1,3 @@
 # Go Weather using Swift UI
 
-![Screenshot][go-weather.png]
+![Screenshot][goweather/go-weather.png]
