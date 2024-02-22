@@ -1,3 +1,3 @@
 # Go Weather using Swift UI
 
-![Screenshot][goweather/go-weather.png]
+![go-weather](https://github.com/MusabBoltX/GoWeather-SwiftUI/assets/68772934/47e83d74-b67f-42dd-bbd6-5d54f3825a0a)
